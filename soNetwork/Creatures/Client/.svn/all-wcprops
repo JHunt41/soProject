@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/soNetwork/Creatures/Client
+END
+CPsyDog.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CPsyDog.h
+END
+CAI_Flesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_Flesh.cpp
+END
+CChimera.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CChimera.h
+END
+CBurer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CBurer.cpp
+END
+CFracture.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CFracture.h
+END
+CBaseMonster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/soNetwork/Creatures/Client/CBaseMonster.cpp
+END
+CAI_Stalker.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_Stalker.h
+END
+CAI_Dog.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_Dog.h
+END
+CAI_Crow.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_Crow.h
+END
+CController.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CController.h
+END
+CZombie.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CZombie.h
+END
+CAI_Bloodsucker.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_Bloodsucker.h
+END
+CPsyDogPhantom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CPsyDogPhantom.cpp
+END
+CSnork.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CSnork.cpp
+END
+CTushkano.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CTushkano.cpp
+END
+CPseudoGigant.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CPseudoGigant.h
+END
+CAI_Trader.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_Trader.h
+END
+CAI_Boar.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_Boar.h
+END
+CAI_Rat.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_Rat.h
+END
+CPsyDog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CPsyDog.cpp
+END
+CPoltergeist.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CPoltergeist.h
+END
+CAI_PseudoDog.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_PseudoDog.h
+END
+CChimera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CChimera.cpp
+END
+CFracture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CFracture.cpp
+END
+CPhantom.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CPhantom.h
+END
+CCat.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CCat.h
+END
+CAI_Stalker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/soNetwork/Creatures/Client/CAI_Stalker.cpp
+END
+CAI_Flesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_Flesh.h
+END
+CAI_Dog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_Dog.cpp
+END
+CController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CController.cpp
+END
+CAI_Crow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_Crow.cpp
+END
+CBurer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CBurer.h
+END
+CZombie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CZombie.cpp
+END
+CAI_Bloodsucker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_Bloodsucker.cpp
+END
+CBaseMonster.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CBaseMonster.h
+END
+CPseudoGigant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CPseudoGigant.cpp
+END
+CAI_Trader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_Trader.cpp
+END
+CAI_Boar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_Boar.cpp
+END
+CAI_Rat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_Rat.cpp
+END
+CTushkano.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CTushkano.h
+END
+CPsyDogPhantom.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CPsyDogPhantom.h
+END
+CPoltergeist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CPoltergeist.cpp
+END
+CSnork.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CSnork.h
+END
+CAI_PseudoDog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CAI_PseudoDog.cpp
+END
+CPhantom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CPhantom.cpp
+END
+CCat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/soNetwork/Creatures/Client/CCat.cpp
+END
